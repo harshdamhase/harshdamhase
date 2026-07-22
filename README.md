@@ -2,11 +2,6 @@
 
 <p align="center">
 
-![Business Central](https://img.shields.io/badge/Microsoft-Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AL Language](https://img.shields.io/badge/AL-Language-00B294?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-742774?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
 
@@ -18,6 +13,12 @@ Microsoft Dynamics 365 Business Central Technical Consultant | AL Developer
 Building ERP solutions with Microsoft Dynamics 365 Business Central, AL Language, SQL Server, and the Microsoft Power Platform.
 </p>
 
+
+![Business Central](https://img.shields.io/badge/Microsoft-Dynamics_365_Business_Central-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AL Language](https://img.shields.io/badge/AL-Language-00B294?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-742774?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 ## 👩‍💻 About Me
