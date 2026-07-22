@@ -4,11 +4,11 @@
 
 ### 💼 Microsoft Dynamics 365 Business Central Technical Consultant | AL Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=22&pause=1200&color=0078D4&center=true&vCenter=true&width=700&lines=Microsoft+Dynamics+365+Business+Central;AL+Developer;ERP+Solution+Developer;Power+Platform+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins+UI&size=24&pause=1200&color=#005A9E&center=true&vCenter=true&width=700&lines=Microsoft+Dynamics+365+Business+Central;AL+Developer;ERP+Solution+Developer;Power+Platform+Enthusiast" />
 
 <br>
 Passionate about developing scalable ERP Solution using  
-**Microsoft Dynamics 365 Business Central**, **AL Language**, and the **Microsoft Power Platform**.
+****Microsoft Dynamics 365 Business Central**, **AL Language**, and the **Microsoft Power Platform**.**
 
 <br>
 
