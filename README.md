@@ -86,6 +86,7 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 - Workflow Automation
 
 ---
+
 ## 📌 Featured Work
 
 🏥 Healthcare Management System
@@ -95,45 +96,6 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 🚗 Vehicle Management System
 
 
-# 📌 Featured Projects
-
-### 🏥 Healthcare Management System
-
-Business Central solution for:
-
-- Patient Registration
-- Appointment Management
-- Doctor Consultation
-- Prescription Management
-- Pharmacy
-- Billing
-- Inventory Management
-- RDLC Reports
-
----
-
-### 🏢 Asset Management System
-
-Business Central solution for:
-
-- Asset Registration
-- Asset Assignment
-- Asset Return
-- Asset Maintenance
-- Asset Replacement
-- Asset History
-
----
-
-### 🚗 Vehicle Management System
-
-Business Central solution for:
-
-- Vehicle Registration
-- Driver Allocation
-- Fuel Management
-- Maintenance
-- Service Schedule
 
 
 ---
