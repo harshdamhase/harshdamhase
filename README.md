@@ -32,6 +32,11 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 - 📄 Experienced in Extensions, Posting Logic, RDLC Reports & SQL Server
 - 🌱 Currently learning **Power Platform**, **Business Central APIs**, and **AI & Copilot**
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdamhase&show_icons=true&theme=default&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdamhase&layout=compact&hide_border=true"/>
+</p>
+
 ---
 
 # 🚀 Tech Stack
