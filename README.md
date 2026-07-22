@@ -8,13 +8,14 @@
 
 <br>
 
-Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central**, **AL Language**, **SQL Server**, and the **Microsoft Power Platform**.
+Passionate about developing scalable ERP solutions using Microsoft Dynamics 365 Business Central, AL Language, and the Microsoft Power Platform.
+
+**Microsoft Dynamics 365 Business Central**, **AL Language**, and the **Microsoft Power Platform**.
 
 <br>
 
 <img src="https://img.shields.io/badge/Dynamics_365-Business_Central-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/AL-Language-00B294?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Automate-742774?style=flat-square&logo=powerautomate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
@@ -87,7 +88,7 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects
 
 🏥 Healthcare Management System
 
@@ -109,7 +110,7 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 💼 LinkedIn
 
 
-](https://www.linkedin.com/in/harshda-mhase/)
+(https://www.linkedin.com/in/harshda-mhase/)
 
 📧 Email
 
@@ -121,6 +122,6 @@ harshdamhase12@gmail.com
 
 ### ⭐ "Turning business requirements into scalable Business Central solutions."
 
-**Thanks for visiting mt Profile!!😇**
+![](https://komarev.com/ghpvc/?username=harshdamhase&label=Profile%20Views&color=0078D4&style=flat)
 
 </div>
