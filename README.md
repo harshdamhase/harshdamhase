@@ -27,7 +27,7 @@ Building scalable ERP solutions using <b>Microsoft Dynamics 365 Business Central
 </div>
 
 ---
----
+
 
 # 👩‍💻 About Me
 
@@ -98,11 +98,11 @@ Building scalable ERP solutions using <b>Microsoft Dynamics 365 Business Central
 
 
 
----
+
 
 ➡️ **Explore my pinned repositories below to see the complete implementations.**
 
----
+
 
 # 📫 Connect With Me
 
