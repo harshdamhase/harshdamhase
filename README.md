@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harshada Mhase</h1>
 
 <h3 align="center">
-💼 Microsoft Dynamics 365 Business Central Technical Consultant | AL Developer
+Microsoft Dynamics 365 Business Central Technical Consultant | AL Developer
 </h3>
 
 <p align="center">
-Passionate about developing Microsoft Dynamics 365 Business Central solutions using AL Language.
-I enjoy building ERP applications, automating business processes, and delivering scalable business solutions.
+Building ERP solutions with Microsoft Dynamics 365 Business Central, AL Language, SQL Server, and the Microsoft Power Platform.
 </p>
 
 ---
@@ -14,111 +13,82 @@ I enjoy building ERP applications, automating business processes, and delivering
 ## 👩‍💻 About Me
 
 - 💼 Microsoft Dynamics 365 Business Central Technical Consultant
-- 💻 AL Developer specializing in Business Central customization
-- 🚀 Passionate about ERP development and business process automation
-- 🌱 Currently learning **Power Automate**, **Power Apps**, and **Business Central Integrations**
-- 📚 Continuously improving my technical and functional Business Central skills
+- 💻 Passionate about AL Development & ERP Customization
+- 🚀 Developing scalable Business Central Extensions
+- 📊 Experienced with RDLC Reports, Posting Logic, SQL Server, and Business Process Automation
+- 🌱 Currently exploring Power Automate, Power Apps, APIs, and Business Central Integrations
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Microsoft Technologies
+**ERP & Development**
 
 - Microsoft Dynamics 365 Business Central
 - AL Language
-- Visual Studio Code
 - SQL Server
 - RDLC Reports
+
+**Microsoft Power Platform**
+
 - Power Automate
-- Power Apps (Learning)
+- Power Apps *(Learning)*
 
-### Tools
+**Tools**
 
+- Visual Studio Code
 - Git
 - GitHub
-- Visual Studio Code
 - SQL Server Management Studio
 
 ---
 
-# 💡 Business Central Expertise
+## 💡 Areas of Expertise
 
-- Custom Tables & Table Extensions
-- Card, List & Document Pages
-- Page Extensions
-- Codeunits & Business Logic
+- Business Central Development
+- AL Extensions
+- Custom Tables & Pages
+- Document Pages
+- Codeunits
 - Posting Logic
 - No. Series Management
 - RDLC Reports
 - Permission Sets
-- Data Validation
 - Email Integration
-- Workflow Automation
-- API Integration (Learning)
+- Business Process Automation
 
 ---
 
-# 🚀 Featured Projects
+## 🌱 Currently Learning
 
-## 🏥 Healthcare Management System
-
-A complete Healthcare Management solution developed in **Microsoft Dynamics 365 Business Central** using **AL Language**.
-
-### Key Features
-
-- 👤 Patient Registration
-- 📅 Appointment Management
-- 👨‍⚕️ Doctor Consultation
-- 💊 Prescription Management
-- 🏥 Pharmacy Management
-- 📦 Posted Pharmacy Invoice
-- 💰 Billing & Inventory Management
-- 📄 RDLC Reports
-- 🔢 No. Series Management
-- ✅ Posting Logic & Data Validation
-
----
-
-## 🏢 Asset Management System
-
-An Asset Management solution developed in **Microsoft Dynamics 365 Business Central** to manage organizational assets throughout their lifecycle.
-
-### Key Features
-
-- 🏷️ Asset Registration
-- 📍 Asset Allocation & Transfer
-- 👤 Employee-wise Asset Assignment
-- 🔧 Asset Maintenance Tracking
-- 📅 Warranty & Service Monitoring
-- 💰 Asset Depreciation Tracking
-- 📊 Asset Status & Reports
-- 📄 RDLC Reports
-- 🔍 Asset History Tracking
-
----
-
-# 🌱 Currently Learning
-
+- Business Central APIs
 - Power Automate
 - Power Apps
-- Business Central APIs
-- Email Automation
 - Workflow Automation
 
 ---
 
-# 🎯 Career Objective
+## 📂 Featured Work
 
-To build scalable ERP solutions using Microsoft Dynamics 365 Business Central and continuously enhance my technical and functional expertise in the Microsoft ecosystem.
+Explore my pinned repositories below to see my Business Central projects and AL development.
+
+🏥 Healthcare Management System
+
+🏢 Asset Management System
+
+🚗 Vehicle Management System
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
 - 📧 Email: your-email@example.com
 
 ---
 
-⭐ **"Building efficient ERP solutions that simplify business processes and create value through technology."**
+<p align="center">
+
+⭐ *"Transforming business requirements into scalable Business Central solutions."*
+
+</p>
