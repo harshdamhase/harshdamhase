@@ -142,16 +142,18 @@ Business Central solution for:
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/harshdamhase
 
 📧 Email
 
-YOURMAIL@gmail.com
+harshdamhase12@gmail.com
 
 ---
 
 <div align="center">
 
 ### ⭐ "Turning business requirements into scalable Business Central solutions."
+
+**Thanks for visiting mt Profile!!😇**
 
 </div>
