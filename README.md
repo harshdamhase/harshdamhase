@@ -42,17 +42,14 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 
 
 
-# 🚀 Tech Stack
+# 🚀 Tech Stack 🛠️ 
 
-| Microsoft Technologies | Development Tools |
-|------------------------|-------------------|
-| Microsoft Dynamics 365 Business Central | Visual Studio Code |
-| AL Language | Git & GitHub |
-| SQL Server | SQL Server Management Studio |
-| RDLC Reports | |
-| Power Automate | |
-| Power Apps | |
-| Power BI | |
+| ERP & Development | Microsoft Power Platform | Tools |
+|-------------------|--------------------------|-------|
+| Microsoft Dynamics 365 Business Central | Power Automate | Visual Studio Code |
+| AL Language | Power Apps | Git & GitHub |
+| SQL Server | Power BI | SQL Server Management Studio |
+| RDLC Reports | Business Central APIs | |
 
 ---
 
@@ -89,6 +86,14 @@ Building scalable ERP solutions using **Microsoft Dynamics 365 Business Central*
 - Workflow Automation
 
 ---
+## 📌 Featured Work
+
+🏥 Healthcare Management System
+
+🏢 Asset Management System
+
+🚗 Vehicle Management System
+
 
 # 📌 Featured Projects
 
@@ -112,11 +117,10 @@ Business Central solution for:
 Business Central solution for:
 
 - Asset Registration
-- Asset Allocation
-- Asset Transfer
+- Asset Assignment
+- Asset Return
 - Asset Maintenance
-- Depreciation
-- Warranty Tracking
+- Asset Replacement
 - Asset History
 
 ---
@@ -130,11 +134,11 @@ Business Central solution for:
 - Fuel Management
 - Maintenance
 - Service Schedule
-- Expense Tracking
+
 
 ---
 
-⭐ Check out my **Pinned Repositories** below to explore these projects.
+➡️ **Explore my pinned repositories below to see the complete implementations.**
 
 ---
 
