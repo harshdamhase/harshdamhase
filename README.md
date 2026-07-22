@@ -9,7 +9,6 @@
 <br>
 
 Passionate about developing scalable ERP solutions using Microsoft Dynamics 365 Business Central, AL Language, and the Microsoft Power Platform.
-
 **Microsoft Dynamics 365 Business Central**, **AL Language**, and the **Microsoft Power Platform**.
 
 <br>
@@ -35,11 +34,6 @@ Passionate about developing scalable ERP solutions using Microsoft Dynamics 365 
 
 
 ---
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harshdamhase&show_icons=true&theme=default&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdamhase&layout=compact&hide_border=true"/>
-</p>
 
 
 
@@ -120,7 +114,7 @@ harshdamhase12@gmail.com
 
 <div align="center">
 
-### ⭐ "Turning business requirements into scalable Business Central solutions."
+### ⭐ Building efficient ERP solutions with Microsoft Dynamics 365 Business Central. 
 
 ![](https://komarev.com/ghpvc/?username=harshdamhase&label=Profile%20Views&color=0078D4&style=flat)
 
