@@ -4,23 +4,29 @@
 
 ### 💼 Microsoft Dynamics 365 Business Central Technical Consultant | AL Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins+UI&size=24&pause=1200&color=#005A9E&center=true&vCenter=true&width=700&lines=Microsoft+Dynamics+365+Business+Central;AL+Developer;ERP+Solution+Developer;Power+Platform+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1200&color=0078D4&center=true&vCenter=true&width=650&lines=Microsoft+Dynamics+365+Business+Central;AL+Developer;ERP+Solution+Developer;Power+Platform+Learner" />
 
-<br>
-Passionate about developing scalable ERP Solution using  
-****Microsoft Dynamics 365 Business Central**, **AL Language**, and the **Microsoft Power Platform**.**
+<p>
+Building scalable ERP solutions using <b>Microsoft Dynamics 365 Business Central</b>,
+<b>AL Language</b>, <b>SQL Server</b>, and the <b>Microsoft Power Platform</b>.
+</p>
 
-<br>
+<p>
 
 <img src="https://img.shields.io/badge/Dynamics_365-Business_Central-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/AL-Language-00B294?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Automate-742774?style=flat-square&logo=powerautomate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</p>
+
+<i>"Transforming business requirements into scalable Business Central solutions."</i>
 
 </div>
 
+---
 ---
 
 # 👩‍💻 About Me
