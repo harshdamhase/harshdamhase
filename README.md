@@ -142,7 +142,8 @@ Business Central solution for:
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/harshdamhase
+
+](https://www.linkedin.com/in/harshda-mhase/)
 
 📧 Email
 
