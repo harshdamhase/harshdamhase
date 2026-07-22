@@ -5,8 +5,8 @@
 </h3>
 
 <p align="center">
-Passionate about building ERP solutions using Microsoft Dynamics 365 Business Central.
-I enjoy developing custom Business Central applications, automating business processes, and creating efficient solutions using AL Language.
+Passionate about developing Microsoft Dynamics 365 Business Central solutions using AL Language.
+I enjoy building ERP applications, automating business processes, and delivering scalable business solutions.
 </p>
 
 ---
@@ -14,16 +14,14 @@ I enjoy developing custom Business Central applications, automating business pro
 ## 👩‍💻 About Me
 
 - 💼 Microsoft Dynamics 365 Business Central Technical Consultant
-- 💻 AL Language Developer
-- 🌱 Currently learning **Power Automate** and **Power Apps**
-- 📊 Experienced in Business Central Customization
-- 🧾 Developing RDLC Reports
-- 🔄 Interested in ERP Automation and Integrations
-- 🚀 Always learning new Microsoft technologies
+- 💻 AL Developer specializing in Business Central customization
+- 🚀 Passionate about ERP development and business process automation
+- 🌱 Currently learning **Power Automate**, **Power Apps**, and **Business Central Integrations**
+- 📚 Continuously improving my technical and functional Business Central skills
 
 ---
 
-## 🚀 Technical Skills
+# 🛠️ Tech Stack
 
 ### Microsoft Technologies
 
@@ -35,11 +33,6 @@ I enjoy developing custom Business Central applications, automating business pro
 - Power Automate
 - Power Apps (Learning)
 
-### Programming
-
-- AL
-- SQL
-
 ### Tools
 
 - Git
@@ -49,43 +42,30 @@ I enjoy developing custom Business Central applications, automating business pro
 
 ---
 
-## 📌 Business Central Expertise
+# 💡 Business Central Expertise
 
-✔ Custom Tables
-
-✔ Card & List Pages
-
-✔ Document Pages
-
-✔ Codeunits
-
-✔ Posting Logic
-
-✔ No. Series Management
-
-✔ Reports (RDLC)
-
-✔ Permission Sets
-
-✔ Page Extensions
-
-✔ Table Extensions
-
-✔ API Integration (Learning)
-
-✔ Email Integration (Learning)
-
-✔ Workflow Automation (Learning)
+- Custom Tables & Table Extensions
+- Card, List & Document Pages
+- Page Extensions
+- Codeunits & Business Logic
+- Posting Logic
+- No. Series Management
+- RDLC Reports
+- Permission Sets
+- Data Validation
+- Email Integration
+- Workflow Automation
+- API Integration (Learning)
 
 ---
 
-## 🏥 Featured Project
+# 🚀 Featured Projects
 
-# Healthcare Management System
+## 🏥 Healthcare Management System
 
-Developed a complete Healthcare Management System in Microsoft Dynamics 365 Business Central.
+A complete Healthcare Management solution developed in **Microsoft Dynamics 365 Business Central** using **AL Language**.
 
-### Modules
+### Key Features
 
 - 👤 Patient Registration
 - 📅 Appointment Management
@@ -93,64 +73,52 @@ Developed a complete Healthcare Management System in Microsoft Dynamics 365 Busi
 - 💊 Prescription Management
 - 🏥 Pharmacy Management
 - 📦 Posted Pharmacy Invoice
-- 💰 Billing
+- 💰 Billing & Inventory Management
 - 📄 RDLC Reports
-
-### Workflow
-
-```text
-Patient Registration
-        │
-        ▼
-Appointment
-        │
-        ▼
-Consultation
-        │
-        ▼
-Prescription
-        │
-        ▼
-Pharmacy
-        │
-        ▼
-Posted Pharmacy Invoice
-```
+- 🔢 No. Series Management
+- ✅ Posting Logic & Data Validation
 
 ---
 
-## 🌱 Currently Learning
+## 🏢 Asset Management System
+
+An Asset Management solution developed in **Microsoft Dynamics 365 Business Central** to manage organizational assets throughout their lifecycle.
+
+### Key Features
+
+- 🏷️ Asset Registration
+- 📍 Asset Allocation & Transfer
+- 👤 Employee-wise Asset Assignment
+- 🔧 Asset Maintenance Tracking
+- 📅 Warranty & Service Monitoring
+- 💰 Asset Depreciation Tracking
+- 📊 Asset Status & Reports
+- 📄 RDLC Reports
+- 🔍 Asset History Tracking
+
+---
+
+# 🌱 Currently Learning
 
 - Power Automate
 - Power Apps
-- Business Central Integration
+- Business Central APIs
 - Email Automation
-- API Development
+- Workflow Automation
 
 ---
 
-## 📈 GitHub Goals
+# 🎯 Career Objective
 
-- Build Business Central Extensions
-- Share AL Development Projects
-- Learn Modern ERP Development
-- Contribute to Open Source
+To build scalable ERP solutions using Microsoft Dynamics 365 Business Central and continuously enhance my technical and functional expertise in the Microsoft ecosystem.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
 - 📧 Email: your-email@example.com
 
 ---
 
-## ⭐ Quote
-
-> "Technology solves business problems when combined with the right process."
-
----
-
-<p align="center">
-Thank you for visiting my profile! ⭐
-</p>
+⭐ **"Building efficient ERP solutions that simplify business processes and create value through technology."**
